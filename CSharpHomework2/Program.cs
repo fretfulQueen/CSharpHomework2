@@ -10,6 +10,7 @@ namespace CSharpHomework2
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
